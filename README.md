@@ -99,7 +99,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 **Agus Satya**  
 📍 Denpasar, Indonesia  
-📧 agussatya878@email.com  
+📧 agussatya878@gmail.com  
 🔗 [GitHub](https://github.com/Agussatya87)
 
 ---
