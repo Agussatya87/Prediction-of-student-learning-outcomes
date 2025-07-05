@@ -77,24 +77,6 @@ The dataset is derived from student academic records from **SMK TP 45 Denpasar**
 
 ---
 
-
----
-
-## 🚀 How to Run This Project
-
-> This project is implemented using Google Colab.  
-> Simply open the `.ipynb` file using the button below:
-
-[🔗 Open in Google Colab](https://colab.research.google.com/drive/1f-ttiLGIwW5U5soIUx6jeVPbop-DJV6g)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
-
----
-
 ## 🙋‍♂️ Author
 
 **Agus Satya**  
